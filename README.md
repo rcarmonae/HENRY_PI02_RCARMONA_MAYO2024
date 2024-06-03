@@ -51,6 +51,7 @@
 Estos puntos críticos podrían estar relacionados con áreas de alto tráfico y cruces peligrosos, sugiriendo la necesidad de intervenciones en seguridad vial en estos lugares.
 ![Distribución ESPACIAL de los siniestros con víctimas fatales en CABA](Mapa_Distribucion_Espacial_General.gif)
 ![Mapa de calor de siniestros con víctimas fatales en CABA](Mapa_Heatmap_General.gif)
+
 **3.2 Análisis por Tipos de Calles**
 
 - Se crearon tablas de frecuencia para los tipos de calles y nombres de calles específicas con altos incidentes.
