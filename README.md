@@ -1,6 +1,7 @@
 # Análisis Exploratorio de Datos (EDA) sobre Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA) durante el periodo de 2016 a 2021
-Elaborado por: Rosa Carmona
-Fecha: mayo 2024
+**Elaborado por: *Rosa Carmona***
+
+**Fecha: *mayo 2024***
 
 ### Introducción
 
